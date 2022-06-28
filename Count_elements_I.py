@@ -8,3 +8,4 @@ d=a.intersection(b)
 for i in d:
     c+=1
 print(c)
+ 
